@@ -16,7 +16,7 @@ MetaPix is a user-friendly web application that allows you to upload your pictur
 
 ## Educational Purpose
 
-MetaPix is an educational development aimed at identifying privacy and security exposures that can arise from backend development. Specifically, it demonstrates the potential risks if client user pictures are returned to the frontend without proper privacy treatment.
+MetaPix is an educational tool designed to identify privacy and security exposures that can arise in backend development. It specifically highlights the potential risks when client user pictures are returned to the frontend without proper privacy measures.
 
 Note: Use sample pictures from this repository to try the app: [EXIF Samples](https://github.com/ianare/exif-samples)
 
