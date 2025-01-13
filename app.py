@@ -147,4 +147,4 @@ def upload_file():
         return render_template('index.html', filename=filename, info_dict=info_dict, gps_dict=gps_dict, latitude=latitude, longitude=longitude, gps_info_dict=address_info, extra_info_dict=extra_info_dict, maker_note_dict=maker_note_dict)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
