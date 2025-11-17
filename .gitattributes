@@ -1,2 +1,3 @@
-# Désactive uniquement les fichiers HTML (templates Jinja)
-*.html linguist-detectable=Vue
+# Réactiver uniquement les fichiers HTML/Vue
+*.html linguist-detectable=true
+*.html linguist-language=Vue
