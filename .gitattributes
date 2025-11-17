@@ -1,0 +1,2 @@
+# Désactive uniquement les fichiers HTML (templates Jinja)
+*.html linguist-detectable=false
